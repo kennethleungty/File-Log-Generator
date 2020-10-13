@@ -47,7 +47,7 @@ df_temp_log = pd.DataFrame(columns=column_list)
 # Create function for datetime conversion into readable date format
 def convert_datetime(time):
     updated_time = datetime.strptime(time, "%a %b %d %H:%M:%S %Y")
-    final_time = updated_time.strftime('%Y-%b-%d %H:%M')
+    final_time = updated_time.strftime('%Y-%m-%d %H:%M')
     return final_time
 
 # Generate rows for each file (that ends with pdf, xlsx, or docx)
