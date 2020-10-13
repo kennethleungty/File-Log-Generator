@@ -9,3 +9,7 @@ ___
 
 ## Solution
 - In order to better track the file additions into Shared folders, and to quickly generate a full list of files in a shared folder, this Python script was written such that the file tracking process can be simplified
+
+## How to use
+- Place the file_activity_tracker.py in the parent directory you wish to track. The script will automatically crawl through all sub-directories to collate the list of files. 
+- Run the .py file (in Command Prompt) in the future whenever you want to have an updated list of the recent changes
