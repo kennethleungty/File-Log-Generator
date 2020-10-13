@@ -12,5 +12,6 @@ ___
 
 ## How to use
 - Place the file_activity_tracker.py in the parent directory you wish to track. The script will automatically crawl through all sub-directories to collate the list of files. 
-- Run the .py file (in Command Prompt) in the future whenever you want to have an updated list of the files (together with indication of recent changes)
+- In Command Prompt, change the directory to the parent directory (e.g. cd C:/Desktop/Shared_Folder), and run the .py file (i.e. python file_activity_tracker.py) 
+- Run the above step whenever you want to have an updated list of the files (together with indication of recent changes)
 - Once the script has been run, an Excel file will automatically be generated in your parent directory
