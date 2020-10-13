@@ -17,3 +17,4 @@ ___
 - Once the script has been run, an Excel file will automatically be generated in your parent directory
 
 ## Sample Excel File Output
+https://github.com/kennethleungty/file-tracker/blob/main/sample_excel_output.png
