@@ -1,4 +1,4 @@
-# File Tracker
+# File Log Generator
 Automatic Excel file generator for tracking of file changes in a folder
 ___
 
