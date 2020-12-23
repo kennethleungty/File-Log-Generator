@@ -1,5 +1,5 @@
 # File Log Generator
-Automatic Excel file generator for tracking of file changes in a folder
+Automatic Excel file generator for tracking of file changes in a desktop folder
 ___
 
 ## Motivation
